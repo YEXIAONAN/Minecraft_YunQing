@@ -1,4 +1,4 @@
-# Minecraft 云青服务器
+# Minecraft 云清服务器
 
 ![Issues](https://img.shields.io/github/issues/YEXIAONAN/Minecraft_YunQing?style=for-the-badge)
 
