@@ -1,10 +1,10 @@
 # Minecraft 云青服务器
 
-![Minecraft](https://img.shields.io/badge/Minecraft_YunQing?style=for-the-badge&logo=minecraft)
+![Minecraft](https://img.shields.io/badge/Minecraf?style=for-the-badge&logo=minecraft)
 ![Issues](https://img.shields.io/github/issues/YEXIAONAN/Minecraft_YunQing?style=for-the-badge)
 ![Last Update](https://img.shields.io/github/last-commitYEXIAONAN/Minecraft_YunQing?style=for-the-badge)
 
-欢迎来到 **Minecraft 云青服务器** 官方仓库 🎮  
+欢迎来到 **Minecraft 云清服务器** 官方仓库 🎮  
 这是玩家**提交问题反馈**、**功能建议**、以及**查看服务器更新日志**的唯一官方渠道。
 
 ---
@@ -26,7 +26,7 @@
 ---
 
 ## 📜 仓库内容
-- **更新日志** – 位于 `updates/` 目录或 [Releases](../../releases)  
+- **更新日志** – 位于 `updates/` 
 - **BUG 跟踪** – 所有已知问题在 [Issues](../../issues) 中可见  
 - **功能建议** – 玩家可在此提出新想法并讨论  
 
@@ -37,12 +37,6 @@
 - 使用清晰、简短的标题  
 - 一个 Issue 仅限一个问题  
 
----
-
-## 🌐 服务器信息
-- **名称**：Minecraft 云青服务器  
-- **版本**：见最新更新日志  
-- **玩法**：生存 / 创造 / 小游戏 *(可根据实际调整)*  
 
 ---
 
