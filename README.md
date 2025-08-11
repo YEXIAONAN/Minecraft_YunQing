@@ -1,8 +1,6 @@
 # Minecraft 云青服务器
 
-![Minecraft](https://img.shields.io/badge/Minecraf?style=for-the-badge&logo=minecraft)
 ![Issues](https://img.shields.io/github/issues/YEXIAONAN/Minecraft_YunQing?style=for-the-badge)
-![Last Update](https://img.shields.io/github/last-commitYEXIAONAN/Minecraft_YunQing?style=for-the-badge)
 
 欢迎来到 **Minecraft 云清服务器** 官方仓库 🎮  
 这是玩家**提交问题反馈**、**功能建议**、以及**查看服务器更新日志**的唯一官方渠道。
