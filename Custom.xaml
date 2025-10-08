@@ -45,6 +45,16 @@
     </StackPanel>
 </local:MyCard>
 
+<local:MyCard Title="🌐 云清社区与帮助" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
+    <StackPanel Margin="25,30,23,15">
+        <TextBlock FontSize="13" Foreground="#444444" Margin="0,0,0,8"
+                   Text="加入我们的社区群组，关注官方平台获取最新玩法与动态，也可联系管理团队解决问题。" />
+
+
+
+        <TextBlock FontSize="12" Foreground="#999999" Text="技术支持：云清技术组，管理组 ｜ 联系邮箱：support@yexiaonan.xyz" />
+    </StackPanel>
+</local:MyCard>
 
 <local:MyCard Title="💖 感谢赞助玩家" Margin="0,0,0,15" CanSwap="False" IsSwaped="True">
     <StackPanel Margin="25,30,23,15">
